@@ -1,0 +1,30 @@
+Adventure stories:
+1. "The Adventures of Tom Sawyer" by Mark Twain - ISBN: 9780143039563
+2. "The Call of the Wild" by Jack London - ISBN: 9780142406560
+3. "Robinson Crusoe" by Daniel Defoe - ISBN: 9780486403673
+4. "Treasure Island" by Robert Louis Stevenson - ISBN: 9781509827747
+
+Classics:
+1. "Pride and Prejudice" by Jane Austen - ISBN: 9780141439518
+2. "To Kill a Mockingbird" by Harper Lee - ISBN: 9780446310789
+3. "Jane Eyre" by Charlotte Bronte - ISBN: 9780141441146
+4. "The Great Gatsby" by F. Scott Fitzgerald - ISBN: 9780743273565
+
+Crime:
+1. "The Silence of the Lambs" by Thomas Harris - ISBN: 9780312924584
+2. "The Girl with the Dragon Tattoo" by Stieg Larsson - ISBN: 9780307949486
+3. "The Adventures of Sherlock Holmes" by Arthur Conan Doyle - ISBN: 9781853260339
+4. "Gone Girl" by Gillian Flynn - ISBN: 9780307588371
+
+
+Fantasy:
+1. "The Lord of the Rings" by J.R.R. Tolkien - ISBN: 9780544003415
+2. "Harry Potter and the Philosopher's Stone" by J.K. Rowling - ISBN: 9780747532743
+3. "The Chronicles of Narnia" by C.S. Lewis - ISBN: 9780064471190
+4. "A Game of Thrones" by George R.R. Martin - ISBN: 9780553573404
+
+Horror:
+1. "Dracula" by Bram Stoker - ISBN: 9780141439846
+2. "Frankenstein" by Mary Shelley - ISBN: 9780141439471
+3. "The Shining" by Stephen King - ISBN: 9780307743657
+4. "The Haunting of Hill House" by Shirley Jackson - ISBN: 9780143039983
