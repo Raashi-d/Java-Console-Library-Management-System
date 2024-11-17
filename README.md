@@ -3,6 +3,8 @@
 ## Overview
 The **E-Library Management System** is a Java-based console application designed to simplify the management of a library. It offers a range of functionalities for library members, including the ability to display available books, borrow and return books, and add new books. This project provides an interactive user interface for easy library operations.
 
+![E-Library Management System](assets/images/Entering.PNG)
+
 ## Features
 - **Display Available Books**: View all available books categorized by genre (Adventure, Classics, Crime, Fantasy, Horror).
 - **Borrow a Book**: Borrow a book by entering its ISBN and category.
